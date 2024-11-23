@@ -1,37 +1,48 @@
-# Frontend Portfolio
+<br clear="both">
 
-Welcome to my frontend development portfolio! 👋
+<div align="center">
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
 
-In this repository, you will find a collection of projects showcasing my skills and expertise in frontend development. Each project demonstrates different aspects of my work, including web design, user interface development, and interactive features.
-I am a second-year student at the Polotsk State University named after Euphrosyne of Polotsk, majoring in Software Engineering. In addition to the university curriculum, I am deeply involved in frontend development, which has interested me since high school. My technology stack includes HTML, CSS, JavaScript, TypeScript, React, Material UI, and Ant Design. Furthermore, I have experience working with C++, C#, and Python based on the university program.
-## Projects
+###
 
-### Project 1: Project Name
-Description: Brief description of the project and its purpose.
 
-Technologies: List of technologies used in the project (e.g., HTML, CSS, JavaScript, TypeScript, React, Material UI, Ant Design).
-![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=appveyor)
-Link: [Project Name](link_to_project)
+###
 
-![Project Screenshot](project_screenshot.png)
+<h3 align="left">👩‍💻  About me</h3>
 
-### Project 2: Project Name
-Description: Brief description of the project and its purpose.
+###
 
-Technologies: List of technologies used in the project (e.g., HTML, CSS, JavaScript, React).
+<p align="left">I am a second-year student at the Polotsk State University named after Euphrosyne of Polotsk, majoring in Software Engineering. In addition to the university curriculum, I am deeply involved in frontend development, which has interested me since high school. My technology stack includes HTML, CSS, JavaScript, TypeScript, React, Material UI, and Ant Design. Furthermore, I have experience working with C++, C#, and Python based on the university program.</p>
 
-Link: [Project Name](link_to_project)
 
-![Project Screenshot](project_screenshot.png)
 
-## About Me
 
-I am a passionate frontend developer with a focus on creating user-friendly and visually appealing web applications. I enjoy exploring new technologies and solving challenging problems to deliver exceptional user experiences.
+<h3 align="left">🛠 Technologies:</h3>
 
-## Contact Me
+###
 
-Feel free to reach out to me if you have any questions or collaboration opportunities:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
+   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cs logo"  />
+  <img width="12" />
+</div>
 
-- Email: [your_email@example.com](mailto:your_email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your_profile)
-- Portfolio: [Your Portfolio Website](https://www.yourportfoliosite.com)
+
+
+
+
+###
