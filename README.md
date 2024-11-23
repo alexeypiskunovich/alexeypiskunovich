@@ -3,14 +3,14 @@
 Welcome to my frontend development portfolio! 👋
 
 In this repository, you will find a collection of projects showcasing my skills and expertise in frontend development. Each project demonstrates different aspects of my work, including web design, user interface development, and interactive features.
-
+I am a second-year student at the Polotsk State University named after Euphrosyne of Polotsk, majoring in Software Engineering. In addition to the university curriculum, I am deeply involved in frontend development, which has interested me since high school. My technology stack includes HTML, CSS, JavaScript, TypeScript, React, Material UI, and Ant Design. Furthermore, I have experience working with C++, C#, and Python based on the university program.
 ## Projects
 
 ### Project 1: Project Name
 Description: Brief description of the project and its purpose.
 
-Technologies: List of technologies used in the project (e.g., HTML, CSS, JavaScript, React).
-
+Technologies: List of technologies used in the project (e.g., HTML, CSS, JavaScript, TypeScript, React, Material UI, Ant Design).
+![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=appveyor)
 Link: [Project Name](link_to_project)
 
 ![Project Screenshot](project_screenshot.png)
